@@ -4,7 +4,7 @@ Currently, updates can be found and questions can be submitted to https://hotfud
 
 ## Devs:
   * **Cherry Rosy**
-  * She/ Her
+  * She/ they
   * @CherryRosy on Tumblr
   * **Second Dev**
   * He/ Him
